@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheOsminShow aka Osmin
 - 👀 I’m interested in furries, minecraft, ai stuff, google colab repo, java, basic dev stuff.
 - 🌱 I’m currently learning java, and learning how to use linux ecosystem.
-- 💞️ I’m looking to collaborate with my bf
+- 💞️ I’m looking to collaborate with my others
 - 📫 How to reach me: twitter lol
 
 <!---
